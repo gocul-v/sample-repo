@@ -1,2 +1,4 @@
-hii  hello im Gokul
-hello im ezhil
+Gokul : hii  hello im Gokul
+Ezhil : hello im ezhil
+Gokul : how are you ???
+ezhil : yeah fine,... You ???
